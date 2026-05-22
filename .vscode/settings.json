@@ -1,0 +1,12 @@
+{
+    "workbench.editor.enablePreviewFromCodeNavigation": true,
+    "workbench.editor.enablePreviewFromQuickOpen": true,
+    "files.exclude": {
+        "0x0b0B7772149c452045e0D3641ad6e261384f542a": true
+    },
+    "python.testing.pytestArgs": [
+        "assets"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}

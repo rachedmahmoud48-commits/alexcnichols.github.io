@@ -1,4 +1,4 @@
-
+0x0b0B7772149c452045e0D3641ad6e261384f542a
 THIRD-PARTY SOFTWARE NOTICES AND INFORMATION
 Do Not Translate or Localize
 
@@ -53,21 +53,21 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 =========================================
 END OF benbalter.github.com NOTICES, INFORMATION, AND LICENSE
-
+74NWNsbfa1ezd7aHKJRVpqzNJA6oXkTHe4L3KLiDtcXU
 
 %% haacked.com NOTICES, INFORMATION, AND LICENSE BEGIN HERE
 =========================================
-MIT License
+MIT License74NWNsbfa1ezd7aHKJRVpqzNJA6oXkTHe4L3KLiDtcXU
 
 Copyright (c) Phil Haack
-
+74NWNsbfa1ezd7aHKJRVpqzNJA6oXkTHe4L3KLiDtcXU
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
-
+0x0b0B7772149c452045e0D3641ad6e261384f542a
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
@@ -80,3 +80,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 =========================================
 END OF haacked.com NOTICES, INFORMATION, AND LICENSE
+0x0b0B7772149c452045e0D3641ad6e261384f542a
